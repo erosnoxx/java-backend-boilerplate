@@ -1,6 +1,3 @@
-Claro! Vou te ajudar a criar um `README.md` para o seu repositório. Abaixo está um modelo de `README` que você pode usar como base. Ele descreve o projeto, suas funcionalidades, como configurar e executar o projeto, e outras informações relevantes.
-
-```markdown
 # Java Spring Boot Backend Boilerplate
 
 Este repositório contém um boilerplate para aplicações Java Spring Boot, projetado para acelerar o desenvolvimento de APIs RESTful. Ele já inclui autenticação JWT, um modelo de rotas, um padrão de retorno de API REST (RMM Level 3), e uma separação clara entre domínio e persistência.
